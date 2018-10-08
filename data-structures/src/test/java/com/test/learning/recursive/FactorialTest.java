@@ -7,7 +7,7 @@
  * under which the software has been supplied.
  */
 
-import com.test.learning.recursive.Factorial;
+package com.test.learning.recursive;
 import org.junit.Assert;
 import org.junit.Test;
 
